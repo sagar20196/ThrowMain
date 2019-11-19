@@ -1,5 +1,10 @@
 package com.sagarx;
 
+/**
+ * THrows keywordis used with method signature to declare the exceptions that
+ * the method might throw.
+ */
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
